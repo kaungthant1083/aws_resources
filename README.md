@@ -1,3 +1,3 @@
 aws_resources
 
-For the purpose of AWS Usefull Resources 
+For the purpose of AWS Useful Resources 
